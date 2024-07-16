@@ -11,6 +11,18 @@
 
 - 📄 Resume [https://drive.google.com/file/d/11JVAYDYiMVcePui1YhZtb-EFOXZ09yMX/view?usp=sharing](https://drive.google.com/file/d/11JVAYDYiMVcePui1YhZtb-EFOXZ09yMX/view?usp=sharing)
 
+- My Portfilo : https://vaish06navi.github.io/Portfolio-Resume/
+  
+- Codolio : https://codolio.com/profile/8kSeAAwI
+
+- Leetcode : https://leetcode.com/u/vaish06navi/
+
+- TakUForward : https://takeuforward.org/profile/sreevaishnavikaripe03@gmail.com
+
+- Hackerrank : https://www.hackerrank.com/profile/sreevaishnavika1
+
+- GeeksForGeeks : https://www.geeksforgeeks.org/user/sreevaishnavikaripe03/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sree-vaishnavi-karipe-0a82b9253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sree-vaishnavi-karipe-0a82b9253/" height="30" width="40" /></a>
