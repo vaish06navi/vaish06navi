@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sree Vaishnavi Karipe</h1>
-<h3 align="center">A passionate Machine Learning & Frontend developer</h3>
+<h3 align="center">A passionate Machine Learning & Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaish06navi&label=Profile%20views&color=0e75b6&style=flat" alt="vaish06navi" /> </p>
 
