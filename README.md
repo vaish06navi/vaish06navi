@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Gap Inc, as SDE Intern**
 
-- 🌱 I’m currently learning **Spring Boot, Deep Learning , DSA**
+- 🌱 I’m working on **Spring Boot, React.js, DSA**
 
 - 📫 How to reach me **sreevaishnavikaripe03@gmail.com**
 
