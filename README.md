@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaish06navi&label=Profile%20views&color=0e75b6&style=flat" alt="vaish06navi" /> </p>
 
-- 🔭 I’m currently working at **Gap Inc, as SDE Intern**
+- 🔭 I’m currently working at **Gap Inc, as Software Engineer Intern**
 
 - 🌱 I’m working on **Spring Boot, React.js, DSA**
 
