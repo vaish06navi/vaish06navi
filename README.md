@@ -8,10 +8,6 @@
 - 🌱 I’ve have hands on experience on **Spring Boot, ReactJS, JavaScript, MongoDB, MySQ, AI, ML, NLP, Data Structure & Algorithms**
 
 - 📫 Reach me out at **sreevaishnavikaripe03@gmail.com**
-
-- Check out my Personal Portfolio : **https://vaish06navi.github.io/Portfolio-Resume/**
-
-- Know about my Experience : **https://drive.google.com/file/d/1EyocpqbKnQvKg98lLYQgZxHXhU3_xxGL/view?usp=sharing**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
