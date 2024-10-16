@@ -5,7 +5,7 @@
 
 - 🔭 I've completed my Summer Internship at **Gap Inc, as Software Engineer Intern**
 
-- 🌱 I’ve have hands on experience on **Spring Boot, ReactJS, JavaScript, MongoDB, MySQ, AI, ML, NLP, Data Structure & Algorithms**
+- 🌱 I’ve have hands on experience on **Spring Boot, ReactJS, JavaScript, MongoDB, MySQL, AI, ML, NLP, Data Structure & Algorithms**
 
 - 📫 Reach me out at **sreevaishnavikaripe03@gmail.com**
   
