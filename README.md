@@ -24,7 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaish06navi&" alt="vaish06navi" /></p>
 
-<h4>My Journey</h4>
-![image](https://github.com/user-attachments/assets/50b55830-4b19-41eb-a58b-40c7003aed57)
+![image](https://github.com/user-attachments/assets/24d1c949-97d1-420f-9c08-ff3e6dad4369)
 
 
