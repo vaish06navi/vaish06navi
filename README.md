@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sree Vaishnavi Karipe</h1>
-<h3 align="center">A Passionate Machine Learning & Full Stack developer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaish06navi&label=Profile%20views&color=0e75b6&style=flat" alt="vaish06navi" /> </p>
 
-- 🔭 I've completed my Summer Internship at **Gap Inc, as Software Engineer Intern**
+- 🔭 I’m currently working as a Software Engineer I at Electronic Arts, having transitioned from a Software Engineering Intern to a full-time role. This journey has been an incredible learning experience that has significantly shaped my professional growth.
 
-- 🌱 I’ve have hands on experience on **Spring Boot, ReactJS, JavaScript, MongoDB, MySQL, AI, ML, NLP, Data Structure & Algorithms**
+- 🔭 I’ve completed my Winter Internship 2025 at Electronic Arts and my Summer Internship 2024 at Gap Inc., both as a Software Engineering Intern, where I gained hands-on experience building impactful solutions in fast-paced, collaborative environments.
+
+- 🌱 I’ve have hands on experience on **Gen AI, AWS, Prompt Engineering, Machine Learning, Spring Boot, ReactJS, JavaScript, MongoDB, MySQL, NLP, Data Structure & Algorithms**
 
 - 📫 Reach me out at **sreevaishnavikaripe03@gmail.com**
   
